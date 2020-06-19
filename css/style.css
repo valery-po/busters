@@ -604,17 +604,13 @@ body {
 	.about-text-bold {
 		display: inline-block;
 	}
-	.button-group {
-		display: none;
-	}
+	
 	
 	.line {
 		display: none;
 	}
 	
-	.search-input {
-  display: none;
-}
+
 	
 	
 		.mobile-buttons {
